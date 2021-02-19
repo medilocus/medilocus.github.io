@@ -14,5 +14,5 @@ Our goal is to create computer intelligence in 3D space.
 
 [Templux][templux], a Python/Pygame 3D rendering engine.
 
-[graphic-videos][https://medilocus.github.io/graphic_videos]
-[templux][https://medilocus.github.io/templux]
+[graphic-videos]: https://medilocus.github.io/graphic_videos
+[templux]: https://medilocus.github.io/templux
